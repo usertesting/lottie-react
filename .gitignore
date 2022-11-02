@@ -43,7 +43,7 @@ package-lock.json
 .tmp
 
 # Dist artifacts
-dist/
+# dist/
 
 # Tests
 coverage/
